@@ -1,0 +1,10 @@
+Warning: DOSSEG directive ignored in module PROGA.ASM
+
+ Start  Stop   Length Name               Class
+
+ 00000H 0003AH 0003BH _TEXT              CODE
+ 00040H 00074H 00035H _DATA              DATA
+ 00080H 0047FH 00400H STACK              STACK
+
+Program entry point at 0000:0000
+
